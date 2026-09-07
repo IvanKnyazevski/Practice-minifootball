@@ -94,5 +94,4 @@ soccer_game.py
 Технологии
 Python 3
 Pygame
-Markdown
 GitHub
